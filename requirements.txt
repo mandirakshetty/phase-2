@@ -1,0 +1,12 @@
+fastapi
+uvicorn[standard]
+pydantic
+requests
+streamlit
+sentence-transformers
+faiss-cpu
+numpy
+
+
+python -m src.fastapi_app
+streamlit run src/ui_streamlit.py
