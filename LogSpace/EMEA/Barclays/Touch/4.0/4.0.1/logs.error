@@ -1,0 +1,8 @@
+2025-12-11T14:06:46.084047Z - ERROR - Component=Monitor - Code: E_DB_FAIL - Touch UI communication error
+2025-12-11T14:06:46.084047Z - ERROR - Component=LogIngestor - Code: E_CONFIG_MISMATCH - Touch service idle timeout
+2025-12-11T14:06:46.084047Z - ERROR - Component=DataSync - Code: E_DB_FAIL - Touch UI communication error
+2025-12-11T14:06:46.084047Z - ERROR - Component=Monitor - Code: E_FILE_NOT_FOUND - Touch UI communication error
+2025-12-11T14:06:46.084047Z - ERROR - Component=AuthService - Code: E_TIMEOUT - Touch UI communication error
+2025-12-11T14:06:46.084047Z - ERROR - Component=DBHandler - Code: E_API_UNAVAILABLE - Touch gesture engine reported invalid state
+2025-12-11T14:06:46.084047Z - ERROR - Component=APIClient - Code: E_FILE_NOT_FOUND - Touch service idle timeout
+2025-12-11T14:06:46.084047Z - ERROR - Component=DataSync - Code: E_TIMEOUT - Touch UI communication error

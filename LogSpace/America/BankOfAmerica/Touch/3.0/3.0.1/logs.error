@@ -1,0 +1,8 @@
+2025-12-11T14:06:46.126992Z - ERROR - Component=Monitor - Code: E_INTERNAL_FAILURE - Touch service idle timeout
+2025-12-11T14:06:46.126992Z - ERROR - Component=DataSync - Code: E_DB_FAIL - Touch UI communication error
+2025-12-11T14:06:46.126992Z - ERROR - Component=APIClient - Code: E_INTERNAL_FAILURE - Touch UI communication error
+2025-12-11T14:06:46.126992Z - ERROR - Component=AuthService - Code: E_AUTH_FAILED - Touch UI communication error
+2025-12-11T14:06:46.126992Z - ERROR - Component=AuthService - Code: E_FILE_NOT_FOUND - Touch service idle timeout
+2025-12-11T14:06:46.126992Z - ERROR - Component=AuthService - Code: E_INTERNAL_FAILURE - Touch service idle timeout
+2025-12-11T14:06:46.126992Z - ERROR - Component=LogIngestor - Code: E_INTERNAL_FAILURE - Touch gesture engine reported invalid state
+2025-12-11T14:06:46.126992Z - ERROR - Component=DataSync - Code: E_NETWORK_DOWN - Touch UI communication error

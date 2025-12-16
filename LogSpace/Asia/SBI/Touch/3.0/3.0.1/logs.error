@@ -1,0 +1,8 @@
+2025-12-11T14:06:46.108184Z - ERROR - Component=Monitor - Code: E_NETWORK_DOWN - Touch UI communication error
+2025-12-11T14:06:46.108184Z - ERROR - Component=APIClient - Code: E_CONFIG_MISMATCH - Touch gesture engine reported invalid state
+2025-12-11T14:06:46.108184Z - ERROR - Component=APIClient - Code: E_AUTH_FAILED - Touch service idle timeout
+2025-12-11T14:06:46.108184Z - ERROR - Component=Monitor - Code: E_NETWORK_DOWN - Touch UI communication error
+2025-12-11T14:06:46.108184Z - ERROR - Component=DataSync - Code: E_INTERNAL_FAILURE - Touch service idle timeout
+2025-12-11T14:06:46.108184Z - ERROR - Component=AuthService - Code: E_NETWORK_DOWN - Touch UI communication error
+2025-12-11T14:06:46.108184Z - ERROR - Component=APIClient - Code: E_INTERNAL_FAILURE - Touch service idle timeout
+2025-12-11T14:06:46.108184Z - ERROR - Component=DBHandler - Code: E_CONFIG_MISMATCH - Touch service idle timeout

@@ -1,0 +1,8 @@
+2025-12-11T14:06:46.067229Z - ERROR - Component=DataSync - Code: E_AUTH_FAILED - Pulse analytics computation timeout
+2025-12-11T14:06:46.067229Z - ERROR - Component=DBHandler - Code: E_CONFIG_MISMATCH - Pulse client connection dropped
+2025-12-11T14:06:46.067229Z - ERROR - Component=AuthService - Code: E_API_UNAVAILABLE - Pulse client connection dropped
+2025-12-11T14:06:46.067229Z - ERROR - Component=DataSync - Code: E_CONFIG_MISMATCH - Pulse dashboard rendering stalled
+2025-12-11T14:06:46.067229Z - ERROR - Component=LogIngestor - Code: E_TIMEOUT - Pulse client connection dropped
+2025-12-11T14:06:46.067229Z - ERROR - Component=Monitor - Code: E_DB_FAIL - Pulse dashboard rendering stalled
+2025-12-11T14:06:46.067229Z - ERROR - Component=DataSync - Code: E_DB_FAIL - Pulse analytics computation timeout
+2025-12-11T14:06:46.067229Z - ERROR - Component=LogIngestor - Code: E_CONFIG_MISMATCH - Pulse analytics computation timeout

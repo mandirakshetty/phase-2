@@ -1,0 +1,8 @@
+2025-12-11T14:06:46.086206Z - ERROR - Component=DBHandler - Code: E_INTERNAL_FAILURE - Unigy session manager crash
+2025-12-11T14:06:46.086206Z - ERROR - Component=DataSync - Code: E_AUTH_FAILED - Unigy trading endpoint failure
+2025-12-11T14:06:46.086206Z - ERROR - Component=DBHandler - Code: E_AUTH_FAILED - Unigy session manager crash
+2025-12-11T14:06:46.086206Z - ERROR - Component=DBHandler - Code: E_TIMEOUT - Voice channel initialization error
+2025-12-11T14:06:46.086206Z - ERROR - Component=APIClient - Code: E_API_UNAVAILABLE - Unigy trading endpoint failure
+2025-12-11T14:06:46.086206Z - ERROR - Component=APIClient - Code: E_FILE_NOT_FOUND - Voice channel initialization error
+2025-12-11T14:06:46.086206Z - ERROR - Component=APIClient - Code: E_NETWORK_DOWN - Voice channel initialization error
+2025-12-11T14:06:46.086206Z - ERROR - Component=DataSync - Code: E_API_UNAVAILABLE - Unigy session manager crash

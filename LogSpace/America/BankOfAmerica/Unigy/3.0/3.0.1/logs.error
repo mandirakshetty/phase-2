@@ -1,0 +1,8 @@
+2025-12-11T14:06:46.115107Z - ERROR - Component=LogIngestor - Code: E_INTERNAL_FAILURE - Unigy trading endpoint failure
+2025-12-11T14:06:46.115107Z - ERROR - Component=LogIngestor - Code: E_AUTH_FAILED - Unigy trading endpoint failure
+2025-12-11T14:06:46.115107Z - ERROR - Component=DBHandler - Code: E_AUTH_FAILED - Unigy trading endpoint failure
+2025-12-11T14:06:46.115107Z - ERROR - Component=AuthService - Code: E_FILE_NOT_FOUND - Unigy trading endpoint failure
+2025-12-11T14:06:46.115107Z - ERROR - Component=DBHandler - Code: E_NETWORK_DOWN - Unigy session manager crash
+2025-12-11T14:06:46.115107Z - ERROR - Component=APIClient - Code: E_API_UNAVAILABLE - Unigy trading endpoint failure
+2025-12-11T14:06:46.115107Z - ERROR - Component=Monitor - Code: E_API_UNAVAILABLE - Unigy trading endpoint failure
+2025-12-11T14:06:46.115107Z - ERROR - Component=DataSync - Code: E_DB_FAIL - Unigy session manager crash

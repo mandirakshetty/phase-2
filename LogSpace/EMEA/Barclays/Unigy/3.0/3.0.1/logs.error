@@ -1,0 +1,8 @@
+2025-12-11T14:06:46.067229Z - ERROR - Component=DataSync - Code: E_INTERNAL_FAILURE - Unigy trading endpoint failure
+2025-12-11T14:06:46.067229Z - ERROR - Component=AuthService - Code: E_CONFIG_MISMATCH - Voice channel initialization error
+2025-12-11T14:06:46.067229Z - ERROR - Component=AuthService - Code: E_NETWORK_DOWN - Voice channel initialization error
+2025-12-11T14:06:46.067229Z - ERROR - Component=DBHandler - Code: E_CONFIG_MISMATCH - Unigy trading endpoint failure
+2025-12-11T14:06:46.067229Z - ERROR - Component=DBHandler - Code: E_FILE_NOT_FOUND - Unigy session manager crash
+2025-12-11T14:06:46.067229Z - ERROR - Component=LogIngestor - Code: E_API_UNAVAILABLE - Unigy session manager crash
+2025-12-11T14:06:46.067229Z - ERROR - Component=APIClient - Code: E_CONFIG_MISMATCH - Voice channel initialization error
+2025-12-11T14:06:46.067229Z - ERROR - Component=LogIngestor - Code: E_DB_FAIL - Unigy trading endpoint failure
